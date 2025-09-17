@@ -1,9 +1,9 @@
-body {
-  background-color: #E1FABE;
-}
 h1 {
+  font-size: 200%;
+  color: #00008B;
+}
+h2 {
   font-family: verdana;
-  font-size: 300%;
   color: #00008B;
 }
 p {
