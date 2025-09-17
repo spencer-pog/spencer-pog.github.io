@@ -1,12 +1,14 @@
+header {
+  background-color: #009162;
+  padding: 30px;
 h1 {
-  background-color: #00008B;
   font-size: 250%;
   color: #FFFFFF;
 }
 h2 {
   font-size: 150%;
   font-family: verdana;
-  color: #00008B;
+  color: #009162;
 }
 p {
   font-family: arial;
